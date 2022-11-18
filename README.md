@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adhika Putra Hermanda</h1>
 <h3 align="center">A fullstack developer from Indonesia</h3>
 
+- 🔭 I’m currently working on [expressjs-social-media-app-api](https://github.com/adhptrh/expressjs-social-media-app-api)
+
 - 📝 I regularly write articles on [https://adhptrh.vercel.app/](https://adhptrh.vercel.app/)
 
 - 💬 Ask me about **anything**
